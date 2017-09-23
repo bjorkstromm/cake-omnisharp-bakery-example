@@ -1,4 +1,4 @@
 {
-    "omnisharp.path": "C:\\Users\\mb\\src\\gh\\omnisharp-roslyn\\artifacts\\publish\\OmniSharp\\win7-x64\\OmniSharp.exe",
+    "omnisharp.path": "C:\\Users\\mb\\src\\gh\\omnisharp-roslyn\\artifacts\\publish\\OmniSharp.Stdio\\win7-x64\\OmniSharp.exe",
     "omnisharp.loggingLevel": "trace"
 }
